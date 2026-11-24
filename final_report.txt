@@ -1,0 +1,22 @@
+
+SENTIMENT ANALYSIS - FINAL REPORT
+
+Total Reviews Analyzed: 15
+
+Positive Reviews: 6
+Negative Reviews: 6
+Neutral Reviews: 3
+
+Positive Percentage: 40.00%
+Negative Percentage: 40.00%
+Neutral Percentage: 20.00%
+
+Most Common Sentiment: Positive
+
+CONCLUSION:
+The dataset contains positive, negative and neutral opinions.
+Sentiment analysis helps understand customer opinions
+and identify overall satisfaction patterns.
+
+Note: Results are automated predictions using VADER.
+They may not perfectly capture context or sarcasm.
