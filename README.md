@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Using Python
 
 ## Project Overview
@@ -121,3 +122,7 @@ The analysis provides insights into positive, negative, and neutral opinions thr
 ## Author
 
 Developed as a Python Data Analytics project.
+=======
+# Sentiment-Analysis
+A Sentiment Analysis web application built using React.js, JavaScript, HTML, and CSS. It analyzes user-input text and classifies opinions into Positive, Negative, and Neutral categories. Features include keyword-based sentiment detection, negation handling, sentiment statistics, strength percentage, sample sentences, and clear functionality
+>>>>>>> 1e79bf3da49950a93f60b4b23101c41d9f767562
